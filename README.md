@@ -28,3 +28,27 @@ https://www.npmjs.com/package/sherlockjs
 https://github.com/maytis/sherlockjs
 
 Also browserified, so check it out in examples/src
+
+
+Real NLP
+========
+http://www.nltk.org (for Python)
+
+
+Misc
+=======
+
+PocketSphinx
+http://syl22-00.github.io/pocketsphinx.js/live-demo.html
+
+AT&T Speech Services
+http://developer.att.com/apis/speech/docs
+
+Nuance Speech API (by Dragon)
+http://developer.nuance.com/public/index.php?task=home
+
+Project Oxford (Microsoft)
+https://www.projectoxford.ai/demo/speech#recognition
+
+Google Translate TTS
+http://translate.google.com/translate_tts?tl=en&q=yourqueryhere
